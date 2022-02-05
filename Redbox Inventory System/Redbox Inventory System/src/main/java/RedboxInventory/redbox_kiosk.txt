@@ -1,0 +1,6 @@
+Title                            Available           Rented
+------------------------------------------------------------
+Collateral Beauty                0                   2     
+Doctor Strange                   1                   2     
+Great Gatsby                     1                   0     
+Elmo                             0                   1     
